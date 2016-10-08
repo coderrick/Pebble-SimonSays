@@ -1,0 +1,21 @@
+{
+    "author": "derrick.duncan@temple.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "graphics",
+    "pebble": {
+        "displayName": "Graphics",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1acf82f9-ef1d-4632-abd4-0086eaa46e55",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
